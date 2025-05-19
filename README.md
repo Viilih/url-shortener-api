@@ -1,5 +1,5 @@
 
-# Url Shortener API with .NET 9, Aspire, PostgreSQL, Hybrid Cache, and Redis
+# Url Shortener API with .NET 8,PostgreSQL and Redis
 
 This repository showcases a sample API built with .NET 8. The application utilizes PostgreSQL as database, and Redis for caching.
 ## Table of Contents
